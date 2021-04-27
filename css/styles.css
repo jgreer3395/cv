@@ -1,0 +1,10 @@
+body {
+  background-color: white;
+}
+
+hr {
+  background-color: grey;
+  border-style: none;
+  height: 2px;
+  width: 98%
+}
